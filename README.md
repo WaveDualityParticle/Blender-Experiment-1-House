@@ -17,3 +17,11 @@ into a new object by going into the Mesh (Edit Mode) >> Seperate >> Selection
 ![image](https://github.com/user-attachments/assets/3c52a855-7437-455c-b681-8b47305760f9)
 ![image](https://github.com/user-attachments/assets/726ad1e7-cddc-48d5-b730-e6e5a4a02e9c)
 
+
+I went into the sculpt mode trying to learn how to sculpt characters and i made this.
+
+![image](https://github.com/user-attachments/assets/8900d6b5-635c-47cd-b7c1-144d1a5b1817)
+
+started off with the U.V sphere and messed around with the tools
+
+
