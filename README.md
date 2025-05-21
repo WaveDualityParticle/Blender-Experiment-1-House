@@ -24,10 +24,23 @@ I went into the sculpt mode trying to learn how to sculpt characters and i made 
 
 started off with the U.V sphere and messed around with the tools
 
+Then i started doing something about the materials/ color of the enemy
+
+![image](https://github.com/user-attachments/assets/39ef8ed8-d735-4e3a-bf23-0fc01310d9de)
+
+This is just base color and how u can do it... u can also import materials from the internet OR you can
+make it in blender the import them
+
 
 I also imported everything to unreal engine this project i made
 
 ![image](https://github.com/user-attachments/assets/ffb5d6ac-fe53-4b83-8fc3-f495828e5856)
+
+![image](https://github.com/user-attachments/assets/b80ea7ce-3d0b-4ba1-a95c-66fbc7560f90)
+
+![Screenshot 2025-05-22 005246](https://github.com/user-attachments/assets/66a7e107-627d-40e2-94c4-4938db35d8ea)
+
+
 
 
 
