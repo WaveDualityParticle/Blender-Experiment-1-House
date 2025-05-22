@@ -41,6 +41,12 @@ I also imported everything to unreal engine this project i made
 ![Screenshot 2025-05-22 005246](https://github.com/user-attachments/assets/66a7e107-627d-40e2-94c4-4938db35d8ea)
 
 
+I messed around with the sculpt tools a little more and i made this tree and exported and added it to ue5 project
+
+![Uploading ShootTheTeddy - Unreal Editor 22-05-2025 22_30_43.png…]()
+
+
+
 
 
 
